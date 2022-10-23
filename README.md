@@ -2,7 +2,7 @@
 3年java转python，记录python学习之路
 
 # 1. 背景
-本人编写该项目时(202210)为javaer(3年+)，因工作原因转python。
+本人编写该项目时(202210)为javaer(3年+)，因工作原因转python。\n
 此项目记录python相关知识，帮助快速上手python。
 tip: 此项目对于有java基础的朋友可能会比较友好
 (因会在部分地方加入与java的对比，当然，无java基础的也丝毫不影响~)。
